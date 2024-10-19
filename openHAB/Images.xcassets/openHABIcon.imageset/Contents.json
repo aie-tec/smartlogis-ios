@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "oh_logo_only.pdf"
+      "filename" : "oh_logo_only.png"
     },
     {
       "idiom" : "universal",
-      "filename" : "oh_logo_only_dark.pdf",
+      "filename" : "oh_logo_only_dark.png",
       "appearances" : [
         {
           "appearance" : "luminosity",
